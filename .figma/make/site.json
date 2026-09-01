@@ -1,0 +1,10 @@
+{
+  "description": "Streamline your grooming experience by booking services, viewing availability, and receiving instant confirmations, all tailored for Barbearia Santana.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
